@@ -21,7 +21,7 @@ Me apasiona la **integración end-to-end**, la **optimización de procesos** y a
 ```ts
 const jorge = {
   rol: "Fullstack Engineer",
-  empresa: "FYTTSA",
+  empresa: "BLACK_SHEEP®",
   lenguajes: ["TypeScript", "JavaScript", "PHP", "SQL"],
   stackPrincipal: ["Next.js", "React", "Node.js"],
   estilos: ["Tailwind CSS", "SASS", "LESS"],

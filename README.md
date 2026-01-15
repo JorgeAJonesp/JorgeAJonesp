@@ -72,12 +72,13 @@ const jorge = {
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 ---
 

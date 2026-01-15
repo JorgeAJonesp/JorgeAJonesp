@@ -19,7 +19,7 @@ Además, manejo **PHP, SASS, LESS y Tailwind CSS**, lo que me permite adaptarme 
 Me apasiona la **integración end-to-end**, la **optimización de procesos** y aportar valor en entornos digitales dinámicos y en constante evolución. Busco retos donde pueda combinar **innovación, escalabilidad y rendimiento** para generar impacto real en los negocios.
 
 ```ts
-const jorge = {
+const jones = {
   rol: "Fullstack Engineer",
   empresa: "BLACK_SHEEP®",
   lenguajes: ["TypeScript", "JavaScript", "PHP", "SQL"],

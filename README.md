@@ -50,7 +50,6 @@ const jorge = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
 ### DevOps / Sistemas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
 

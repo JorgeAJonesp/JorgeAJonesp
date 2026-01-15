@@ -79,13 +79,6 @@ const jones = {
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-
----
-
-## 🤝 Contacto
-
-- GitHub: https://github.com/JorgeAJonesp
-
 ---
 
 > “El buen código no se nota, simplemente funciona.”

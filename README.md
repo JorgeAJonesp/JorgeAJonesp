@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy **Fullstack Engineer en BLACK_SHEEP®**, donde aplico mi formación en **Ingeniería de Telecomunicaciones y Tecnologías de la Información** para diseñar e implementar soluciones tecnológicas **escalables y de alto rendimiento**.
+Soy **Ingeniero de Producto en BLACK_SHEEP®**, donde aplico mi formación en **Ingeniería de Telecomunicaciones y Tecnologías de la Información** para diseñar e implementar soluciones tecnológicas **escalables y de alto rendimiento**.
 
 Con estudios avanzados en **desarrollo de videojuegos** y una sólida experiencia en tecnologías modernas, mi trabajo se centra en el desarrollo de **aplicaciones web robustas** utilizando **Next.js, React, TypeScript y Node.js**.  
 Además, manejo **PHP, SASS, LESS y Tailwind CSS**, lo que me permite adaptarme a proyectos complejos y optimizar la experiencia del usuario.

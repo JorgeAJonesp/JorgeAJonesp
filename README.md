@@ -1,3 +1,67 @@
+<p align="right">
+  <a href="#es">ES</a> · <a href="#en">EN</a>
+</p>
+
+<a id="es"></a>
+
+# Jorge Alfredo Jones
+
+**Tech Lead / Ingeniero Full-Stack** en [Black Sheep Labs](https://blck-sheep.com) · Estado de México, México
+
+Diseño y entrego productos de punta a punta: plataformas SaaS, APIs, apps móviles y sistemas de visión artificial. Lidero arquitectura, entrega y equipos técnicos desde el producto hasta producción.
+
+[Portafolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Instagram](https://www.instagram.com/jorgealjones) · [Email](mailto:hola@alfredojones.dev)
+
+---
+
+## Experiencia
+
+| Rol | Empresa | Periodo |
+| --- | --- | --- |
+| **Tech Lead** | Black Sheep Labs | 2024 – Actual |
+| **Desarrollador / Vision Expert** | FYTTSA | 2023 – Actual |
+| **Desarrollador Android & Web** | ECV (Empresas con Valor) | 2020 – 2021 |
+| **Becario – Desarrollo Android** | PEMEX | 2019 – 2020 |
+
+**En Black Sheep Labs:** arquitectura SaaS multi-tenant (Next.js, React, TypeScript), colaboración en tiempo real, apps de logística (Nimbus) y plataformas comerciales (COSMOS: POS, inventario, fidelización y facturación electrónica).
+
+**En FYTTSA:** sistemas distribuidos de visión artificial con YOLOv8, reconocimiento facial y streaming RTSP para monitoreo industrial y de seguridad.
+
+---
+
+## Proyectos destacados
+
+- **[Stick](https://stick.mx)** — SaaS multi-tenant de gestión de proyectos y colaboración en tiempo real (Next.js, Liveblocks, Yjs)
+- **MARFIL CCTV** — Monitoreo con IA para construcción (YOLOv8, InsightFace, WebRTC)
+- **K'MARENA** — Experiencia digital multi-superficie (web, tablets Android, LG webOS)
+- **Nimbus** — Operaciones de flota y logística con telemática en vivo
+
+---
+
+## Stack
+
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend:** Node.js · PHP · Python · PostgreSQL · Prisma  
+**Plataformas:** Expo / React Native · Electron · IIS / Cloudflare  
+**IA y tiempo real:** YOLOv8 · InsightFace · WebRTC / RTSP · Socket.io
+
+---
+
+## Formación
+
+- Ingeniería en Desarrollo de Videojuegos — 2023 – Actual  
+- Ingeniería en TIC’s — 2015 – 2019
+
+---
+
+<p align="center">
+  <a href="#en">English version ↓</a>
+</p>
+
+---
+
+<a id="en"></a>
+
 # Jorge Alfredo Jones
 
 **Tech Lead / Full-Stack Engineer** at [Black Sheep Labs](https://blck-sheep.com) · Estado de México, México
@@ -51,4 +115,8 @@ I design and ship end-to-end products: SaaS platforms, APIs, mobile apps, and co
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="#es">Versión en español ↑</a>
 </p>

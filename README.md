@@ -1,84 +1,54 @@
-<h1 align="center">Hola 👋, soy Alfredo</h1>
-<h3 align="center">Fullstack Engineer | Next.js, React, TypeScript, Node.js</h3>
-<p align="center">Integración SaaS, APIs y soluciones escalables end-to-end</p>
+# Jorge Alfredo Jones
+
+**Tech Lead / Full-Stack Engineer** at [Black Sheep Labs](https://blck-sheep.com) · Estado de México, México
+
+I design and ship end-to-end products: SaaS platforms, APIs, mobile apps, and computer-vision systems. I lead architecture, delivery, and technical teams from product to production.
+
+[Portfolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Instagram](https://www.instagram.com/jorgealjones) · [Email](mailto:hola@alfredojones.dev)
+
+---
+
+## Experience
+
+| Role | Company | Period |
+| --- | --- | --- |
+| **Tech Lead** | Black Sheep Labs | 2024 – Present |
+| **Developer / Vision Expert** | FYTTSA | 2023 – Present |
+| **Android & Web Developer** | ECV (Empresas con Valor) | 2020 – 2021 |
+| **Android Development Intern** | PEMEX | 2019 – 2020 |
+
+**At Black Sheep Labs:** multi-tenant SaaS architecture (Next.js, React, TypeScript), real-time collaboration, logistics apps (Nimbus), and commercial OS platforms (COSMOS: POS, inventory, loyalty, e-invoicing).
+
+**At FYTTSA:** distributed computer-vision systems with YOLOv8, facial recognition, and RTSP streaming for industrial and security monitoring.
+
+---
+
+## Selected work
+
+- **[Stick](https://stick.mx)** — Multi-tenant SaaS for project management and real-time collaboration (Next.js, Liveblocks, Yjs)
+- **MARFIL CCTV** — AI construction monitoring (YOLOv8, InsightFace, WebRTC)
+- **K'MARENA** — Digital venue / multi-surface experience (web, Android tablets, LG webOS)
+- **Nimbus** — Fleet & logistics ops with live telematics
+
+---
+
+## Stack
+
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend:** Node.js · PHP · Python · PostgreSQL · Prisma  
+**Platforms:** Expo / React Native · Electron · IIS / Cloudflare  
+**AI & realtime:** YOLOv8 · InsightFace · WebRTC / RTSP · Socket.io
+
+---
+
+## Education
+
+- Ingeniería en Desarrollo de Videojuegos — 2023 – Present  
+- Ingeniería en TIC’s — 2015 – 2019
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JorgeAJonesp?label=Seguidores&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/JorgeAJonesp?label=Estrellas&style=flat-square" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
-
----
-
-## 🧑‍💻 Sobre mí
-
-Soy **Ingeniero de Producto en BLACK_SHEEP®**, donde aplico mi formación en **Ingeniería de Telecomunicaciones y Tecnologías de la Información** para diseñar e implementar soluciones tecnológicas **escalables y de alto rendimiento**.
-
-Con estudios avanzados en **desarrollo de videojuegos** y una sólida experiencia en tecnologías modernas, mi trabajo se centra en el desarrollo de **aplicaciones web robustas** utilizando **Next.js, React, TypeScript y Node.js**.  
-Además, manejo **PHP, SASS, LESS y Tailwind CSS**, lo que me permite adaptarme a proyectos complejos y optimizar la experiencia del usuario.
-
-Me apasiona la **integración end-to-end**, la **optimización de procesos** y aportar valor en entornos digitales dinámicos y en constante evolución. Busco retos donde pueda combinar **innovación, escalabilidad y rendimiento** para generar impacto real en los negocios.
-
-```ts
-const jones = {
-  rol: "Fullstack Engineer",
-  empresa: "BLACK_SHEEP®",
-  lenguajes: ["TypeScript", "JavaScript", "PHP", "SQL"],
-  stackPrincipal: ["Next.js", "React", "Node.js"],
-  estilos: ["Tailwind CSS", "SASS", "LESS"],
-  basesDeDatos: ["PostgreSQL", "Firebird", "MySQL"],
-  enfoque: ["SaaS", "APIs", "arquitectura escalable", "end-to-end"],
-};
-```
-
----
-
-## 🛠️ Stack Tecnológico
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
-![REST](https://img.shields.io/badge/API-REST-blue?style=flat-square)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
-### DevOps / Sistemas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
-
----
-
-## 🧩 Áreas de experiencia
-
-- Desarrollo de aplicaciones web
-- Desarrollo de software personalizado
-- Integración SaaS y APIs
-- Desarrollo de aplicaciones en la nube
-- Desarrollo de bases de datos
-- Desarrollo de aplicaciones móviles (Android / iOS)
-- Optimización de rendimiento y escalabilidad
-- Gestión de la información
-- Diseño y experiencia de usuario
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-> “El buen código no se nota, simplemente funciona.”

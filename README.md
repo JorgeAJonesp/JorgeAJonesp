@@ -36,7 +36,7 @@ ECV (Android & Web) · PEMEX (becario Android)
 
 ---
 
-### Cosas que he construido
+
 
 <p align="center">
   <a href="https://stick.mx">

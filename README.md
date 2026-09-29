@@ -38,31 +38,56 @@ ECV (Android & Web) · PEMEX (becario Android)
 
 ### Cosas que he construido
 
-| Proyecto | Qué es | Stack |
-| --- | --- | --- |
-| **[Stick](https://stick.mx)** | SaaS de proyectos y colaboración en vivo | Next.js · Liveblocks · Yjs |
-| **MARFIL CCTV** | Monitoreo con IA en obra | YOLOv8 · InsightFace · WebRTC |
-| **K'MARENA** | Experiencia digital multi-pantalla | Web · Android · LG webOS |
-| **Nimbus** | Flotas y logística con telemática | Next.js · APIs · tiempo real |
+**[Stick](https://stick.mx)** — SaaS de proyectos y colaboración en vivo  
+`Next.js` `Liveblocks` `Yjs`
+
+**MARFIL CCTV** — monitoreo con IA en obra  
+`YOLOv8` `InsightFace` `WebRTC`
+
+**K'MARENA** — experiencia digital multi-pantalla  
+`Web` `Android` `LG webOS`
+
+**Nimbus** — flotas y logística con telemática  
+`Next.js` `APIs` `tiempo real`
 
 ---
 
 ### Caja de herramientas
 
-`Next.js` `React` `TypeScript` `Tailwind`  
-`Node.js` `PHP` `Python` `PostgreSQL` `Prisma`  
-`Expo` `Electron` `Cloudflare`  
-`YOLOv8` `InsightFace` `WebRTC` `Socket.io`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ---
 
 ### Formación
-Ingeniería en Desarrollo de Videojuegos *(en curso)* · Ingeniería en TIC’s *(2015–2019)*
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
-</p>
+- **Ingeniería en Desarrollo de Videojuegos** — en curso (2023–)
+- **Ingeniería en TIC’s** — 2015–2019
+
+---
+
+<details>
+  <summary><b>GitHub stats</b></summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="320" />
+</details>
 
 <p align="center"><i>¿Construimos algo juntos?</i> → <a href="mailto:hola@alfredojones.dev">hola@alfredojones.dev</a> · <a href="#en">English ↓</a></p>
 
@@ -107,30 +132,55 @@ ECV (Android & Web) · PEMEX (Android intern)
 
 ### Things I've shipped
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Stick](https://stick.mx)** | Live project & collaboration SaaS | Next.js · Liveblocks · Yjs |
-| **MARFIL CCTV** | AI monitoring on construction sites | YOLOv8 · InsightFace · WebRTC |
-| **K'MARENA** | Multi-surface digital experience | Web · Android · LG webOS |
-| **Nimbus** | Fleet & logistics with live telematics | Next.js · APIs · realtime |
+**[Stick](https://stick.mx)** — live project & collaboration SaaS  
+`Next.js` `Liveblocks` `Yjs`
+
+**MARFIL CCTV** — AI monitoring on construction sites  
+`YOLOv8` `InsightFace` `WebRTC`
+
+**K'MARENA** — multi-surface digital experience  
+`Web` `Android` `LG webOS`
+
+**Nimbus** — fleet & logistics with live telematics  
+`Next.js` `APIs` `realtime`
 
 ---
 
 ### Toolbox
 
-`Next.js` `React` `TypeScript` `Tailwind`  
-`Node.js` `PHP` `Python` `PostgreSQL` `Prisma`  
-`Expo` `Electron` `Cloudflare`  
-`YOLOv8` `InsightFace` `WebRTC` `Socket.io`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ---
 
 ### Education
-Video Game Development Engineering *(in progress)* · ICT Engineering *(2015–2019)*
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
-</p>
+- **Video Game Development Engineering** — in progress (2023–)
+- **ICT Engineering** — 2015–2019
+
+---
+
+<details>
+  <summary><b>GitHub stats</b></summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="320" />
+</details>
 
 <p align="center"><i>Let's build something.</i> → <a href="mailto:hola@alfredojones.dev">hola@alfredojones.dev</a> · <a href="#es">Español ↑</a></p>

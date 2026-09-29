@@ -1,122 +1,136 @@
-<p align="right">
-  <a href="#es">ES</a> · <a href="#en">EN</a>
-</p>
+<p align="right"><b><a href="#es">ES</a></b> · <a href="#en">EN</a></p>
 
 <a id="es"></a>
 
-# Jorge Alfredo Jones
+# Hola, soy Jorge Alfredo Jones
 
-**Tech Lead / Ingeniero Full-Stack** en [Black Sheep Labs](https://blck-sheep.com) · Estado de México, México
+Tech Lead en **[Black Sheep Labs](https://blck-sheep.com)** · construyo productos que se sienten rápidos, claros y listos para crecer.
 
-Diseño y entrego productos de punta a punta: plataformas SaaS, APIs, apps móviles y sistemas de visión artificial. Lidero arquitectura, entrega y equipos técnicos desde el producto hasta producción.
+No solo “hago features”. Diseño arquitectura, lidero equipos y llevo SaaS, logística e IA de visión desde la idea hasta producción.
 
-[Portafolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Instagram](https://www.instagram.com/jorgealjones) · [Email](mailto:hola@alfredojones.dev)
+<p>
+  <a href="https://alfredojones.dev"><img src="https://img.shields.io/badge/Portafolio-alfredojones.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/jorgeajones/"><img src="https://img.shields.io/badge/LinkedIn-jorgeajones-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stick.mx"><img src="https://img.shields.io/badge/Stick-SaaS-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Stick" /></a>
+  <a href="mailto:hola@alfredojones.dev"><img src="https://img.shields.io/badge/Email-hola@alfredojones.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+```ts
+const jorge = {
+  rol: "Tech Lead / Full-Stack",
+  empresa: "Black Sheep Labs",
+  enfoque: ["SaaS multi-tenant", "APIs", "logística", "visión artificial"],
+  stack: ["Next.js", "React", "TypeScript", "Node.js"],
+  modo: "de la idea → a producción",
+};
+```
 
 ---
 
-## Experiencia
+### Ahora mismo
+- **Black Sheep Labs** — lidero arquitecturas SaaS multi-tenant, colaboración en tiempo real y plataformas comerciales (COSMOS) + logística (Nimbus).
+- **FYTTSA** — sistemas de visión artificial con YOLOv8, reconocimiento facial y streaming RTSP para monitoreo industrial.
 
-| Rol | Empresa | Periodo |
+### Antes
+ECV (Android & Web) · PEMEX (becario Android)
+
+---
+
+### Cosas que he construido
+
+| Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| **Tech Lead** | Black Sheep Labs | 2024 – Actual |
-| **Desarrollador / Vision Expert** | FYTTSA | 2023 – Actual |
-| **Desarrollador Android & Web** | ECV (Empresas con Valor) | 2020 – 2021 |
-| **Becario – Desarrollo Android** | PEMEX | 2019 – 2020 |
-
-**En Black Sheep Labs:** arquitectura SaaS multi-tenant (Next.js, React, TypeScript), colaboración en tiempo real, apps de logística (Nimbus) y plataformas comerciales (COSMOS: POS, inventario, fidelización y facturación electrónica).
-
-**En FYTTSA:** sistemas distribuidos de visión artificial con YOLOv8, reconocimiento facial y streaming RTSP para monitoreo industrial y de seguridad.
+| **[Stick](https://stick.mx)** | SaaS de proyectos y colaboración en vivo | Next.js · Liveblocks · Yjs |
+| **MARFIL CCTV** | Monitoreo con IA en obra | YOLOv8 · InsightFace · WebRTC |
+| **K'MARENA** | Experiencia digital multi-pantalla | Web · Android · LG webOS |
+| **Nimbus** | Flotas y logística con telemática | Next.js · APIs · tiempo real |
 
 ---
 
-## Proyectos destacados
+### Caja de herramientas
 
-- **[Stick](https://stick.mx)** — SaaS multi-tenant de gestión de proyectos y colaboración en tiempo real (Next.js, Liveblocks, Yjs)
-- **MARFIL CCTV** — Monitoreo con IA para construcción (YOLOv8, InsightFace, WebRTC)
-- **K'MARENA** — Experiencia digital multi-superficie (web, tablets Android, LG webOS)
-- **Nimbus** — Operaciones de flota y logística con telemática en vivo
-
----
-
-## Stack
-
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Backend:** Node.js · PHP · Python · PostgreSQL · Prisma  
-**Plataformas:** Expo / React Native · Electron · IIS / Cloudflare  
-**IA y tiempo real:** YOLOv8 · InsightFace · WebRTC / RTSP · Socket.io
+`Next.js` `React` `TypeScript` `Tailwind`  
+`Node.js` `PHP` `Python` `PostgreSQL` `Prisma`  
+`Expo` `Electron` `Cloudflare`  
+`YOLOv8` `InsightFace` `WebRTC` `Socket.io`
 
 ---
 
-## Formación
-
-- Ingeniería en Desarrollo de Videojuegos — 2023 – Actual  
-- Ingeniería en TIC’s — 2015 – 2019
-
----
+### Formación
+Ingeniería en Desarrollo de Videojuegos *(en curso)* · Ingeniería en TIC’s *(2015–2019)*
 
 <p align="center">
-  <a href="#en">English version ↓</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
 </p>
+
+<p align="center"><i>¿Construimos algo juntos?</i> → <a href="mailto:hola@alfredojones.dev">hola@alfredojones.dev</a> · <a href="#en">English ↓</a></p>
 
 ---
 
 <a id="en"></a>
+<p align="right"><a href="#es">ES</a> · <b><a href="#en">EN</a></b></p>
 
-# Jorge Alfredo Jones
+# Hey, I'm Jorge Alfredo Jones
 
-**Tech Lead / Full-Stack Engineer** at [Black Sheep Labs](https://blck-sheep.com) · Estado de México, México
+Tech Lead at **[Black Sheep Labs](https://blck-sheep.com)** · I build products that feel fast, clear, and ready to scale.
 
-I design and ship end-to-end products: SaaS platforms, APIs, mobile apps, and computer-vision systems. I lead architecture, delivery, and technical teams from product to production.
+I don't just ship tickets. I own architecture, lead teams, and take SaaS, logistics, and computer-vision systems from idea to production.
 
-[Portfolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Instagram](https://www.instagram.com/jorgealjones) · [Email](mailto:hola@alfredojones.dev)
+<p>
+  <a href="https://alfredojones.dev"><img src="https://img.shields.io/badge/Portfolio-alfredojones.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jorgeajones/"><img src="https://img.shields.io/badge/LinkedIn-jorgeajones-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stick.mx"><img src="https://img.shields.io/badge/Stick-SaaS-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Stick" /></a>
+  <a href="mailto:hola@alfredojones.dev"><img src="https://img.shields.io/badge/Email-hola@alfredojones.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+```ts
+const jorge = {
+  role: "Tech Lead / Full-Stack",
+  company: "Black Sheep Labs",
+  focus: ["multi-tenant SaaS", "APIs", "logistics", "computer vision"],
+  stack: ["Next.js", "React", "TypeScript", "Node.js"],
+  mode: "idea → production",
+};
+```
 
 ---
 
-## Experience
+### Right now
+- **Black Sheep Labs** — multi-tenant SaaS architecture, realtime collaboration, commercial platforms (COSMOS) + logistics (Nimbus).
+- **FYTTSA** — computer-vision systems with YOLOv8, facial recognition, and RTSP streaming.
 
-| Role | Company | Period |
+### Earlier
+ECV (Android & Web) · PEMEX (Android intern)
+
+---
+
+### Things I've shipped
+
+| Project | What it is | Stack |
 | --- | --- | --- |
-| **Tech Lead** | Black Sheep Labs | 2024 – Present |
-| **Developer / Vision Expert** | FYTTSA | 2023 – Present |
-| **Android & Web Developer** | ECV (Empresas con Valor) | 2020 – 2021 |
-| **Android Development Intern** | PEMEX | 2019 – 2020 |
-
-**At Black Sheep Labs:** multi-tenant SaaS architecture (Next.js, React, TypeScript), real-time collaboration, logistics apps (Nimbus), and commercial OS platforms (COSMOS: POS, inventory, loyalty, e-invoicing).
-
-**At FYTTSA:** distributed computer-vision systems with YOLOv8, facial recognition, and RTSP streaming for industrial and security monitoring.
+| **[Stick](https://stick.mx)** | Live project & collaboration SaaS | Next.js · Liveblocks · Yjs |
+| **MARFIL CCTV** | AI monitoring on construction sites | YOLOv8 · InsightFace · WebRTC |
+| **K'MARENA** | Multi-surface digital experience | Web · Android · LG webOS |
+| **Nimbus** | Fleet & logistics with live telematics | Next.js · APIs · realtime |
 
 ---
 
-## Selected work
+### Toolbox
 
-- **[Stick](https://stick.mx)** — Multi-tenant SaaS for project management and real-time collaboration (Next.js, Liveblocks, Yjs)
-- **MARFIL CCTV** — AI construction monitoring (YOLOv8, InsightFace, WebRTC)
-- **K'MARENA** — Digital venue / multi-surface experience (web, Android tablets, LG webOS)
-- **Nimbus** — Fleet & logistics ops with live telematics
-
----
-
-## Stack
-
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Backend:** Node.js · PHP · Python · PostgreSQL · Prisma  
-**Platforms:** Expo / React Native · Electron · IIS / Cloudflare  
-**AI & realtime:** YOLOv8 · InsightFace · WebRTC / RTSP · Socket.io
+`Next.js` `React` `TypeScript` `Tailwind`  
+`Node.js` `PHP` `Python` `PostgreSQL` `Prisma`  
+`Expo` `Electron` `Cloudflare`  
+`YOLOv8` `InsightFace` `WebRTC` `Socket.io`
 
 ---
 
-## Education
-
-- Ingeniería en Desarrollo de Videojuegos — 2023 – Present  
-- Ingeniería en TIC’s — 2015 – 2019
-
----
+### Education
+Video Game Development Engineering *(in progress)* · ICT Engineering *(2015–2019)*
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs" />
 </p>
 
-<p align="center">
-  <a href="#es">Versión en español ↑</a>
-</p>
+<p align="center"><i>Let's build something.</i> → <a href="mailto:hola@alfredojones.dev">hola@alfredojones.dev</a> · <a href="#es">Español ↑</a></p>

@@ -38,17 +38,11 @@ ECV (Android & Web) · PEMEX (becario Android)
 
 ### Cosas que he construido
 
-**[Stick](https://stick.mx)** — SaaS de proyectos y colaboración en vivo  
-`Next.js` `Liveblocks` `Yjs`
-
-**MARFIL CCTV** — monitoreo con IA en obra  
-`YOLOv8` `InsightFace` `WebRTC`
-
-**K'MARENA** — experiencia digital multi-pantalla  
-`Web` `Android` `LG webOS`
-
-**Nimbus** — flotas y logística con telemática  
-`Next.js` `APIs` `tiempo real`
+<p align="center">
+  <a href="https://stick.mx">
+    <img src="assets/proyectos.jpg" alt="Proyectos: Stick, MARFIL CCTV, K'MARENA, Nimbus" width="900" />
+  </a>
+</p>
 
 ---
 
@@ -132,17 +126,11 @@ ECV (Android & Web) · PEMEX (Android intern)
 
 ### Things I've shipped
 
-**[Stick](https://stick.mx)** — live project & collaboration SaaS  
-`Next.js` `Liveblocks` `Yjs`
-
-**MARFIL CCTV** — AI monitoring on construction sites  
-`YOLOv8` `InsightFace` `WebRTC`
-
-**K'MARENA** — multi-surface digital experience  
-`Web` `Android` `LG webOS`
-
-**Nimbus** — fleet & logistics with live telematics  
-`Next.js` `APIs` `realtime`
+<p align="center">
+  <a href="https://stick.mx">
+    <img src="assets/proyectos.jpg" alt="Projects: Stick, MARFIL CCTV, K'MARENA, Nimbus" width="900" />
+  </a>
+</p>
 
 ---
 

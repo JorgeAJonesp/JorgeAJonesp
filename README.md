@@ -60,8 +60,7 @@ Entre los proyectos y plataformas en los que participo se encuentran:
 | **Stick** | Gestión de proyectos, tareas y procesos empresariales |
 | **COSMOS POS** | Punto de venta y operación comercial |
 | **Nimbus** | Soluciones para operaciones logísticas |
-| **Camariana** | Señalización digital |
-| **Black Sheep Suite** | Herramientas y plataformas empresariales |
+| **K´marena** | Señalización digital |
 
 ### Experiencia técnica adicional
 

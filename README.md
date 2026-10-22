@@ -6,13 +6,13 @@
 
 # Hola, soy Jorge Alfredo Jones 👋
 
-### Tech Lead · Software Architect · Indie Game Developer
+### Tech Lead · Software Architect · Game Developer
 
-Lidero equipos de desarrollo y construyo productos de software, desde la arquitectura hasta su puesta en producción.
+Lidero equipos de desarrollo y construyo productos de software, desde el diseño de su arquitectura hasta su puesta en producción.
 
 Actualmente soy **Tech Lead en [Black Sheep Labs](https://blck-sheep.com)** y fundador de **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, mi estudio independiente de videojuegos en México.
 
-Me gusta convertir ideas complejas en soluciones funcionales, escalables y fáciles de utilizar.
+Me apasiona transformar ideas complejas en productos funcionales, escalables y con identidad propia.
 
 <p>
   <a href="https://alfredojones.dev">
@@ -20,6 +20,9 @@ Me gusta convertir ideas complejas en soluciones funcionales, escalables y fáci
   </a>
   <a href="https://www.linkedin.com/in/jorgeajones/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ni-Tan-Tan-Studios">
+    <img src="https://img.shields.io/badge/Ni_Tan_Tan_Studios-F26B21?style=for-the-badge&logo=github&logoColor=white" alt="Ni Tan Tan Studios">
   </a>
   <a href="mailto:hola@alfredojones.dev">
     <img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
@@ -34,12 +37,14 @@ Me gusta convertir ideas complejas en soluciones funcionales, escalables y fáci
 
 Diseño soluciones, coordino equipos de desarrollo y participo en la evolución de plataformas empresariales.
 
+Mi trabajo combina arquitectura de software, desarrollo full-stack, integración de servicios y despliegue de soluciones en producción.
+
 | Producto | Enfoque |
 | --- | --- |
-| **Stick** | Gestión de trabajo, tareas y procesos |
+| **Stick** | Gestión de trabajo, tareas y procesos empresariales |
 | **COSMOS POS** | Punto de venta y operación comercial |
-| **Nimbus** | Herramientas para operaciones logísticas |
-| **K´MARENA** | Señalización digital |
+| **Nimbus** | Soluciones para operaciones logísticas |
+| **K'MARENA** | Señalización digital y gestión de contenido multimedia |
 
 <p align="center">
   <img src="assets/proyectos.jpg" alt="Proyectos y plataformas de software" width="850">
@@ -53,32 +58,50 @@ Mi experiencia también incluye **sistemas en tiempo real, infraestructura Windo
 
 <div align="center">
 
-### Un estudio independiente de videojuegos
+### Mi estudio independiente de videojuegos
 
 **No tan serios. Muy buenos momentos.**
 
-[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios) es mi espacio para crear videojuegos con identidad propia, experimentar con mecánicas y desarrollar nuevas experiencias con **Godot**.
+[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios) es un estudio independiente de videojuegos creado en México.
 
-**Proyectos en desarrollo:**
+Un espacio para experimentar con mecánicas, explorar nuevas ideas y desarrollar experiencias interactivas con identidad propia.
 
-🎮 **Number Rush** · **Última Recolección**
+### Proyectos en desarrollo
 
-[**Explorar el estudio y sus juegos →**](https://github.com/Ni-Tan-Tan-Studios)
+**⚡ Number Rush**
+
+Un juego móvil de números, velocidad y reflejos.
+
+**📬 Última Recolección**
+
+Un videojuego narrativo ambientado en una oficina de correos.
+
+[**Explorar Ni Tan Tan Studios →**](https://github.com/Ni-Tan-Tan-Studios)
 
 </div>
 
 ---
 
-## 🛠️ Mi stack
+## 🛠️ Mi stack tecnológico
 
 | Área | Tecnologías |
 | --- | --- |
 | **Frontend** | Next.js, React, TypeScript, JavaScript |
 | **Backend** | Node.js, Express, PHP, Python, APIs REST |
-| **Bases de datos** | SQL Server, PostgreSQL, MySQL |
+| **Bases de datos** | SQL Server, PostgreSQL, MySQL, Firebird |
 | **Infraestructura** | Windows Server, IIS, PM2, Cloudflare |
 | **Tiempo real e IA** | Socket.io, procesamiento de video, visión artificial |
-| **Videojuegos** | Godot, desarrollo para Android |
+| **Videojuegos** | Unreal Engine 5, Unity, Godot, desarrollo para PC y Android |
+
+### 🎮 Game Development
+
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+**Motor favorito:** Unreal Engine 5
+
+**Desarrollo actual:** Godot · Ni Tan Tan Studios
 
 ---
 
@@ -89,6 +112,8 @@ Mi experiencia también incluye **sistemas en tiempo real, infraestructura Windo
 **Liderazgo cercano al código.** Combino decisiones técnicas, colaboración y ejecución.
 
 **Mentalidad de producto.** La tecnología importa cuando resuelve problemas reales.
+
+**Creatividad y experimentación.** Exploro nuevas herramientas y motores para convertir ideas en experiencias interactivas.
 
 ---
 
@@ -115,22 +140,22 @@ Mi experiencia también incluye **sistemas en tiempo real, infraestructura Windo
 
 # Hey, I'm Jorge Alfredo Jones 👋
 
-### Tech Lead · Software Architect · Indie Game Developer
+### Tech Lead · Software Architect · Game Developer
 
 I lead development teams and build software products, from architecture to production deployment.
 
 I'm currently a **Tech Lead at [Black Sheep Labs](https://blck-sheep.com)** and the founder of **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, my independent game development studio in Mexico.
 
-I enjoy turning complex ideas into functional, scalable, and intuitive products.
+I'm passionate about transforming complex ideas into functional, scalable products with their own identity.
 
 ### 💼 Professional Work
 
 At **Black Sheep Labs**, I contribute to enterprise software solutions, including:
 
-- **Stick:** work and task management.
+- **Stick:** work, task, and business process management.
 - **COSMOS POS:** point-of-sale and commercial operations.
-- **Nimbus:** logistics operations.
-- **Camariana:** digital signage.
+- **Nimbus:** logistics solutions.
+- **K'MARENA:** digital signage and multimedia content management.
 
 My experience includes software architecture, full-stack development, real-time systems, infrastructure, and computer vision.
 
@@ -138,19 +163,32 @@ My experience includes software architecture, full-stack development, real-time 
 
 I'm building **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, an independent studio focused on creating original gaming experiences.
 
-**Games in development:** Number Rush and Última Recolección, built with Godot.
+**Games in development:**
+
+- **Number Rush:** a fast-paced mobile number game.
+- **Última Recolección:** a narrative game set in a post office.
 
 ### 🛠️ Core Technologies
 
-**Frontend:** Next.js, React, TypeScript
+**Frontend:** Next.js, React, TypeScript, JavaScript
 
-**Backend:** Node.js, PHP, Python, REST APIs
+**Backend:** Node.js, Express, PHP, Python, REST APIs
 
-**Databases:** SQL Server, PostgreSQL, MySQL
+**Databases:** SQL Server, PostgreSQL, MySQL, Firebird
 
 **Infrastructure:** Windows Server, IIS, PM2, Cloudflare
 
-**Game Development:** Godot, Android
+**Real-time & AI:** Socket.io, computer vision, video processing
+
+### 🎮 Game Engines
+
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+**Favorite engine:** Unreal Engine 5
+
+**Currently developing with:** Godot
 
 ### 📬 Let's Connect
 

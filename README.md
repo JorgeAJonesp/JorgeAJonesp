@@ -1,7 +1,6 @@
-
-<div align="right">
+<p align="right">
   <a href="#es">🇲🇽 Español</a> · <a href="#en">🇺🇸 English</a>
-</div>
+</p>
 
 <a id="es"></a>
 
@@ -9,23 +8,18 @@
 
 ### Tech Lead · Software Architect · Indie Game Developer
 
-Lidero equipos de desarrollo y construyo productos digitales, desde el diseño de su arquitectura hasta su puesta en producción.
+Lidero equipos de desarrollo y construyo productos de software, desde la arquitectura hasta su puesta en producción.
 
-Actualmente trabajo en **[Black Sheep Labs](https://blck-sheep.com)**, donde participo en el desarrollo de plataformas empresariales, soluciones SaaS y sistemas de integración.
+Actualmente soy **Tech Lead en [Black Sheep Labs](https://blck-sheep.com)** y fundador de **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, mi estudio independiente de videojuegos en México.
 
-También soy fundador de **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, un estudio independiente de videojuegos nacido en México.
+Me gusta convertir ideas complejas en soluciones funcionales, escalables y fáciles de utilizar.
 
-**Me gusta convertir ideas complejas en productos funcionales, escalables y fáciles de utilizar.**
-
-<p align="center">
+<p>
   <a href="https://alfredojones.dev">
     <img src="https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://www.linkedin.com/in/jorgeajones/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Ni-Tan-Tan-Studios">
-    <img src="https://img.shields.io/badge/Ni_Tan_Tan_Studios-F26B21?style=for-the-badge&logo=github&logoColor=white" alt="Ni Tan Tan Studios">
   </a>
   <a href="mailto:hola@alfredojones.dev">
     <img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
@@ -34,140 +28,86 @@ También soy fundador de **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-St
 
 ---
 
-## 🚀 Lo que hago
+## 💼 Qué construyo
 
-- **Liderazgo técnico:** coordinación de equipos, revisión de soluciones y toma de decisiones de arquitectura.
-- **Desarrollo full-stack:** aplicaciones web, plataformas SaaS, APIs y sistemas empresariales.
-- **Arquitectura e infraestructura:** despliegues, integración de servicios y operación de aplicaciones.
-- **Sistemas en tiempo real:** comunicación mediante WebSockets, eventos y servicios conectados.
-- **Visión artificial:** soluciones de procesamiento de video y análisis mediante Python.
-- **Desarrollo de videojuegos:** diseño e implementación de experiencias interactivas con Godot.
+### Black Sheep Labs · Liderazgo técnico
 
----
+Diseño soluciones, coordino equipos de desarrollo y participo en la evolución de plataformas empresariales.
 
-## 🏢 Experiencia y productos
-
-### Black Sheep Labs
-
-**Tech Lead · Arquitectura y desarrollo de software**
-
-Trabajo en soluciones tecnológicas para distintas necesidades empresariales, combinando desarrollo de producto, arquitectura e integración de servicios.
-
-Entre los proyectos y plataformas en los que participo se encuentran:
-
-| Producto | Área |
-|---|---|
-| **Stick** | Gestión de proyectos, tareas y procesos empresariales |
+| Producto | Enfoque |
+| --- | --- |
+| **Stick** | Gestión de trabajo, tareas y procesos |
 | **COSMOS POS** | Punto de venta y operación comercial |
-| **Nimbus** | Soluciones para operaciones logísticas |
-| **K´marena** | Señalización digital |
-
-### Experiencia técnica adicional
-
-He trabajado con soluciones de monitoreo, procesamiento de video, integración de cámaras y visión artificial, además de aplicaciones web y móviles.
+| **Nimbus** | Herramientas para operaciones logísticas |
+| **Camariana** | Señalización digital |
 
 <p align="center">
   <img src="assets/proyectos.jpg" alt="Proyectos y plataformas de software" width="850">
 </p>
 
+Mi experiencia también incluye **sistemas en tiempo real, infraestructura Windows, APIs, procesamiento de video y visión artificial**.
+
 ---
 
-## 🎮 Mi estudio de videojuegos
+## 🎮 Ni Tan Tan Studios
 
 <div align="center">
 
-### Ni Tan Tan Studios
+### Un estudio independiente de videojuegos
 
 **No tan serios. Muy buenos momentos.**
 
-Estudio independiente de desarrollo de videojuegos creado en México.
+[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios) es mi espacio para crear videojuegos con identidad propia, experimentar con mecánicas y desarrollar nuevas experiencias con **Godot**.
 
-Exploramos ideas, mecánicas e historias para desarrollar experiencias con identidad propia.
+**Proyectos en desarrollo:**
 
-[**Conoce Ni Tan Tan Studios →**](https://github.com/Ni-Tan-Tan-Studios)
+🎮 **Number Rush** · **Última Recolección**
+
+[**Explorar el estudio y sus juegos →**](https://github.com/Ni-Tan-Tan-Studios)
 
 </div>
 
-### Juegos en desarrollo
+---
 
-**⚡ Number Rush**
+## 🛠️ Mi stack
 
-Juego móvil de números, velocidad y competencia, desarrollado con Godot para Android.
-
-**📬 Última Recolección**
-
-Videojuego narrativo ambientado en una oficina de correos, desarrollado con Godot 4.
-
-> Los repositorios de desarrollo de los juegos son privados. Su presentación pública está disponible en el perfil del estudio.
+| Área | Tecnologías |
+| --- | --- |
+| **Frontend** | Next.js, React, TypeScript, JavaScript |
+| **Backend** | Node.js, Express, PHP, Python, APIs REST |
+| **Bases de datos** | SQL Server, PostgreSQL, MySQL |
+| **Infraestructura** | Windows Server, IIS, PM2, Cloudflare |
+| **Tiempo real e IA** | Socket.io, procesamiento de video, visión artificial |
+| **Videojuegos** | Godot, desarrollo para Android |
 
 ---
 
-## 🛠️ Tecnologías
+## 🎯 Cómo trabajo
 
-**Frontend**
+**Arquitectura con propósito.** Diseño soluciones mantenibles y preparadas para crecer.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Liderazgo cercano al código.** Combino decisiones técnicas, colaboración y ejecución.
 
-**Backend y bases de datos**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Infraestructura e integraciones**
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Videojuegos y visión artificial**
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=pytorch&logoColor=white)
-
----
-
-## 🎓 Formación
-
-- **Ingeniería en Tecnologías de la Información y Comunicación**
-- Formación y experiencia en desarrollo de videojuegos y aplicaciones móviles
-- Aprendizaje continuo en arquitectura de software, infraestructura y nuevas tecnologías
+**Mentalidad de producto.** La tecnología importa cuando resuelve problemas reales.
 
 ---
 
 ## 📊 GitHub
 
 <details>
-  <summary><b>Ver estadísticas de GitHub</b></summary>
-
+  <summary><b>Ver estadísticas</b></summary>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="420">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAJonesp&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" width="320">
 </details>
 
 ---
 
-## 📬 Contacto
+### 📬 ¿Construimos algo juntos?
 
-¿Tienes una idea, un proyecto o una oportunidad de colaboración?
-
-**Portafolio:** https://alfredojones.dev
-
-**LinkedIn:** https://www.linkedin.com/in/jorgeajones/
-
-**Correo:** hola@alfredojones.dev
-
-**Estudio:** https://github.com/Ni-Tan-Tan-Studios
+[Portafolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Correo](mailto:hola@alfredojones.dev)
 
 ---
 
@@ -177,69 +117,44 @@ Videojuego narrativo ambientado en una oficina de correos, desarrollado con Godo
 
 ### Tech Lead · Software Architect · Indie Game Developer
 
-I lead development teams and build digital products, from software architecture to production deployment.
+I lead development teams and build software products, from architecture to production deployment.
 
-I currently work at **[Black Sheep Labs](https://blck-sheep.com)**, contributing to enterprise platforms, SaaS products, and software integrations.
+I'm currently a **Tech Lead at [Black Sheep Labs](https://blck-sheep.com)** and the founder of **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, my independent game development studio in Mexico.
 
-I'm also the founder of **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, an independent game development studio based in Mexico.
+I enjoy turning complex ideas into functional, scalable, and intuitive products.
 
-**I enjoy turning complex ideas into functional, scalable, and intuitive products.**
+### 💼 Professional Work
 
-## 🚀 What I Do
+At **Black Sheep Labs**, I contribute to enterprise software solutions, including:
 
-- **Technical leadership:** team coordination, architectural decisions, and solution design.
-- **Full-stack development:** web applications, SaaS platforms, APIs, and enterprise systems.
-- **Software architecture:** infrastructure, deployment, and service integration.
-- **Real-time systems:** WebSockets and event-driven communication.
-- **Computer vision:** video processing and Python-based solutions.
-- **Game development:** interactive experiences built with Godot.
-
-## 🏢 Professional Work
-
-At **Black Sheep Labs**, I contribute to enterprise software products including:
-
-- **Stick:** project, task, and business process management.
+- **Stick:** work and task management.
 - **COSMOS POS:** point-of-sale and commercial operations.
 - **Nimbus:** logistics operations.
 - **Camariana:** digital signage.
-- **Black Sheep Suite:** enterprise software solutions.
 
-## 🎮 Indie Game Development
+My experience includes software architecture, full-stack development, real-time systems, infrastructure, and computer vision.
 
-### Ni Tan Tan Studios
+### 🎮 Indie Game Development
 
-**Not too serious. Seriously fun.**
+I'm building **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, an independent studio focused on creating original gaming experiences.
 
-An independent game development studio from Mexico, focused on creating original gaming experiences.
+**Games in development:** Number Rush and Última Recolección, built with Godot.
 
-**Current projects:**
+### 🛠️ Core Technologies
 
-- **Number Rush:** a fast-paced mobile number game for Android.
-- **Última Recolección:** a narrative game set in a post office.
-
-[**Explore Ni Tan Tan Studios →**](https://github.com/Ni-Tan-Tan-Studios)
-
-## 🛠️ Main Technologies
-
-**Frontend:** Next.js, React, TypeScript, JavaScript
+**Frontend:** Next.js, React, TypeScript
 
 **Backend:** Node.js, PHP, Python, REST APIs
 
 **Databases:** SQL Server, PostgreSQL, MySQL
 
-**Infrastructure:** Windows Server, IIS, Cloudflare, PM2
+**Infrastructure:** Windows Server, IIS, PM2, Cloudflare
 
-**Game Development:** Godot, GDScript
+**Game Development:** Godot, Android
 
-## 📬 Let's Connect
+### 📬 Let's Connect
 
-**Portfolio:** https://alfredojones.dev
-
-**LinkedIn:** https://www.linkedin.com/in/jorgeajones/
-
-**Email:** hola@alfredojones.dev
-
-**Game Studio:** https://github.com/Ni-Tan-Tan-Studios
+[Portfolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Email](mailto:hola@alfredojones.dev) · [Game Studio](https://github.com/Ni-Tan-Tan-Studios)
 
 ---
 
@@ -248,5 +163,7 @@ An independent game development studio from Mexico, focused on creating original
 **Building software. Leading teams. Creating games.**
 
 *From Mexico, with curiosity and a passion for technology.*
+
+<a href="#es">↑ Volver a español</a>
 
 </div>

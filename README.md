@@ -6,13 +6,15 @@
 
 # Hola, soy Jorge Alfredo Jones 👋
 
-### Tech Lead · Software Architect · Game Developer
+### Tech Lead · Software Architect · Full-Stack & Game Developer
 
-Lidero equipos de desarrollo y construyo productos de software, desde el diseño de su arquitectura hasta su puesta en producción.
+Soy desarrollador de software especializado en **arquitectura de sistemas, desarrollo de plataformas empresariales y liderazgo técnico**.
 
-Actualmente soy **Tech Lead en [Black Sheep Labs](https://blck-sheep.com)** y fundador de **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, mi estudio independiente de videojuegos en México.
+Actualmente soy **Tech Lead en [Black Sheep Labs](https://blck-sheep.com)**, donde lidero equipos de desarrollo y participo en el diseño, implementación y evolución de soluciones tecnológicas.
 
-Me apasiona transformar ideas complejas en productos funcionales, escalables y con identidad propia.
+Mi experiencia abarca plataformas SaaS, sistemas empresariales, integraciones, infraestructura, aplicaciones en tiempo real y visión artificial.
+
+**Me gusta convertir problemas complejos en productos funcionales, escalables y preparados para producción.**
 
 <p>
   <a href="https://alfredojones.dev">
@@ -21,9 +23,6 @@ Me apasiona transformar ideas complejas en productos funcionales, escalables y c
   <a href="https://www.linkedin.com/in/jorgeajones/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Ni-Tan-Tan-Studios">
-    <img src="https://img.shields.io/badge/Ni_Tan_Tan_Studios-F26B21?style=for-the-badge&logo=github&logoColor=white" alt="Ni Tan Tan Studios">
-  </a>
   <a href="mailto:hola@alfredojones.dev">
     <img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
   </a>
@@ -31,96 +30,129 @@ Me apasiona transformar ideas complejas en productos funcionales, escalables y c
 
 ---
 
-## 💼 Qué construyo
+## 💼 Experiencia profesional
 
-### Black Sheep Labs · Liderazgo técnico
+### Black Sheep Labs
 
-Diseño soluciones, coordino equipos de desarrollo y participo en la evolución de plataformas empresariales.
+**Tech Lead · Arquitectura y desarrollo de software**
 
-Mi trabajo combina arquitectura de software, desarrollo full-stack, integración de servicios y despliegue de soluciones en producción.
+Lidero el desarrollo de soluciones empresariales, participando tanto en las decisiones técnicas como en la implementación de productos.
+
+Mi trabajo incluye:
+
+- **Liderazgo técnico:** coordinación del equipo, distribución de responsabilidades, seguimiento de desarrollos y resolución de bloqueos.
+- **Arquitectura de software:** diseño de soluciones escalables, definición de estructuras y evaluación de tecnologías.
+- **Desarrollo full-stack:** construcción de aplicaciones web, servicios backend y APIs.
+- **Infraestructura:** configuración, despliegue y mantenimiento de aplicaciones en servidores.
+- **Integraciones:** comunicación entre sistemas, automatización de procesos y servicios en tiempo real.
+- **Evolución de producto:** mejoras funcionales, optimización de rendimiento y mantenimiento de plataformas en producción.
+
+### Productos y plataformas
 
 | Producto | Enfoque |
 | --- | --- |
-| **Stick** | Gestión de trabajo, tareas y procesos empresariales |
+| **Stick** | Gestión de proyectos, tareas y procesos empresariales |
 | **COSMOS POS** | Punto de venta y operación comercial |
-| **Nimbus** | Soluciones para operaciones logísticas |
-| **K'MARENA** | Señalización digital y gestión de contenido multimedia |
+| **Nimbus** | Herramientas para operaciones logísticas |
+| **K'MARENA** | Señalización digital y administración de contenido multimedia |
+| **Black Sheep Suite** | Soluciones y herramientas empresariales |
 
 <p align="center">
   <img src="assets/proyectos.jpg" alt="Proyectos y plataformas de software" width="850">
 </p>
 
-Mi experiencia también incluye **sistemas en tiempo real, infraestructura Windows, APIs, procesamiento de video y visión artificial**.
+### Otras áreas de experiencia
+
+También he trabajado en soluciones que involucran:
+
+- Procesamiento de video y visión artificial.
+- Integración de cámaras y transmisión RTSP.
+- Sistemas de comunicación en tiempo real.
+- Aplicaciones web y móviles.
+- Administración de servidores Windows.
+- Bases de datos relacionales y optimización de consultas.
 
 ---
 
-## 🎮 Ni Tan Tan Studios
+## 🛠️ Stack tecnológico
 
-<div align="center">
+### Frontend
 
-### Mi estudio independiente de videojuegos
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
-**No tan serios. Muy buenos momentos.**
+### Backend y APIs
 
-[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios) es un estudio independiente de videojuegos creado en México.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Un espacio para experimentar con mecánicas, explorar nuevas ideas y desarrollar experiencias interactivas con identidad propia.
+### Bases de datos
 
-### Proyectos en desarrollo
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=flat-square&logoColor=white)
 
-**⚡ Number Rush**
+### Infraestructura e integraciones
 
-Un juego móvil de números, velocidad y reflejos.
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**📬 Última Recolección**
+### Desarrollo de videojuegos
 
-Un videojuego narrativo ambientado en una oficina de correos.
-
-[**Explorar Ni Tan Tan Studios →**](https://github.com/Ni-Tan-Tan-Studios)
-
-</div>
-
----
-
-## 🛠️ Mi stack tecnológico
-
-| Área | Tecnologías |
-| --- | --- |
-| **Frontend** | Next.js, React, TypeScript, JavaScript |
-| **Backend** | Node.js, Express, PHP, Python, APIs REST |
-| **Bases de datos** | SQL Server, PostgreSQL, MySQL, Firebird |
-| **Infraestructura** | Windows Server, IIS, PM2, Cloudflare |
-| **Tiempo real e IA** | Socket.io, procesamiento de video, visión artificial |
-| **Videojuegos** | Unreal Engine 5, Unity, Godot, desarrollo para PC y Android |
-
-### 🎮 Game Development
-
-![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 **Motor favorito:** Unreal Engine 5
 
-**Desarrollo actual:** Godot · Ni Tan Tan Studios
+---
+
+## 🎯 Mi enfoque de trabajo
+
+**Arquitectura con propósito.** Busco soluciones mantenibles, escalables y adecuadas para cada proyecto.
+
+**Liderazgo cercano al código.** Combino la coordinación de equipos con la participación activa en decisiones e implementaciones técnicas.
+
+**Mentalidad de producto.** Priorizo soluciones que aporten valor real a los usuarios y a las operaciones del negocio.
+
+**Aprendizaje continuo.** Me interesa explorar tecnologías, herramientas y nuevas formas de desarrollar software.
 
 ---
 
-## 🎯 Cómo trabajo
+## 🎮 Proyectos personales
 
-**Arquitectura con propósito.** Diseño soluciones mantenibles y preparadas para crecer.
+Además de mi trabajo profesional, disfruto desarrollar videojuegos y explorar nuevas experiencias interactivas.
 
-**Liderazgo cercano al código.** Combino decisiones técnicas, colaboración y ejecución.
+Soy fundador de **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, un estudio independiente donde desarrollo proyectos propios.
 
-**Mentalidad de producto.** La tecnología importa cuando resuelve problemas reales.
+Actualmente trabajo con **Godot**, y también tengo conocimientos de **Unreal Engine 5 y Unity**.
 
-**Creatividad y experimentación.** Exploro nuevas herramientas y motores para convertir ideas en experiencias interactivas.
+[**Conocer Ni Tan Tan Studios →**](https://github.com/Ni-Tan-Tan-Studios)
+
+---
+
+## 🎓 Formación
+
+- **Ingeniería en Tecnologías de la Información y Comunicación**
+- Formación en desarrollo de videojuegos
+- Aprendizaje continuo en arquitectura de software, infraestructura y desarrollo de productos
 
 ---
 
 ## 📊 GitHub
 
 <details>
-  <summary><b>Ver estadísticas</b></summary>
+  <summary><b>Ver estadísticas de GitHub</b></summary>
   <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=JorgeAJonesp&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="420">
@@ -132,7 +164,9 @@ Un videojuego narrativo ambientado en una oficina de correos.
 
 ### 📬 ¿Construimos algo juntos?
 
-[Portafolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Correo](mailto:hola@alfredojones.dev)
+Estoy abierto a conectar con desarrolladores, equipos y personas interesadas en crear productos tecnológicos.
+
+**[Portafolio](https://alfredojones.dev)** · **[LinkedIn](https://www.linkedin.com/in/jorgeajones/)** · **[Correo](mailto:hola@alfredojones.dev)**
 
 ---
 
@@ -140,59 +174,106 @@ Un videojuego narrativo ambientado en una oficina de correos.
 
 # Hey, I'm Jorge Alfredo Jones 👋
 
-### Tech Lead · Software Architect · Game Developer
+### Tech Lead · Software Architect · Full-Stack & Game Developer
 
-I lead development teams and build software products, from architecture to production deployment.
+I'm a software developer specializing in **software architecture, enterprise platforms, and technical leadership**.
 
-I'm currently a **Tech Lead at [Black Sheep Labs](https://blck-sheep.com)** and the founder of **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, my independent game development studio in Mexico.
+I'm currently a **Tech Lead at [Black Sheep Labs](https://blck-sheep.com)**, where I lead development teams and contribute to the design, implementation, and evolution of software solutions.
 
-I'm passionate about transforming complex ideas into functional, scalable products with their own identity.
+My experience covers SaaS platforms, enterprise applications, system integrations, infrastructure, real-time systems, and computer vision.
 
-### 💼 Professional Work
+**I enjoy turning complex problems into functional, scalable, production-ready software.**
 
-At **Black Sheep Labs**, I contribute to enterprise software solutions, including:
+---
 
-- **Stick:** work, task, and business process management.
-- **COSMOS POS:** point-of-sale and commercial operations.
-- **Nimbus:** logistics solutions.
-- **K'MARENA:** digital signage and multimedia content management.
+## 💼 Professional Experience
 
-My experience includes software architecture, full-stack development, real-time systems, infrastructure, and computer vision.
+### Black Sheep Labs
 
-### 🎮 Indie Game Development
+**Tech Lead · Software Architecture & Development**
 
-I'm building **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, an independent studio focused on creating original gaming experiences.
+I lead software development initiatives, combining technical decision-making with hands-on engineering.
 
-**Games in development:**
+My responsibilities include:
 
-- **Number Rush:** a fast-paced mobile number game.
-- **Última Recolección:** a narrative game set in a post office.
+- Technical leadership and development team coordination.
+- Software architecture and system design.
+- Full-stack development and REST API implementation.
+- Infrastructure, deployment, and production operations.
+- System integrations and real-time communication.
+- Product evolution, maintenance, and performance improvements.
 
-### 🛠️ Core Technologies
+### Products & Platforms
 
-**Frontend:** Next.js, React, TypeScript, JavaScript
+| Product | Focus |
+| --- | --- |
+| **Stick** | Project, task, and business process management |
+| **COSMOS POS** | Point-of-sale and commercial operations |
+| **Nimbus** | Logistics operations |
+| **K'MARENA** | Digital signage and multimedia content management |
+| **Black Sheep Suite** | Enterprise software solutions |
 
-**Backend:** Node.js, Express, PHP, Python, REST APIs
+### Additional Experience
 
-**Databases:** SQL Server, PostgreSQL, MySQL, Firebird
+- Computer vision and video processing.
+- Camera integration and RTSP streaming.
+- Real-time communication systems.
+- Web and mobile applications.
+- Windows Server administration.
+- Relational databases and query optimization.
 
-**Infrastructure:** Windows Server, IIS, PM2, Cloudflare
+---
 
-**Real-time & AI:** Socket.io, computer vision, video processing
+## 🛠️ Core Technologies
 
-### 🎮 Game Engines
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | Next.js, React, TypeScript, JavaScript |
+| **Backend** | Node.js, Express, PHP, Python |
+| **Databases** | SQL Server, PostgreSQL, MySQL, Firebird |
+| **Infrastructure** | Windows Server, IIS, PM2, Cloudflare |
+| **Real-time Systems** | Socket.io, APIs, integrations |
+| **Game Development** | Unreal Engine 5, Unity, Godot |
 
-![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+**Favorite game engine:** Unreal Engine 5
 
-**Favorite engine:** Unreal Engine 5
+---
 
-**Currently developing with:** Godot
+## 🎯 How I Work
 
-### 📬 Let's Connect
+**Purpose-driven architecture.** Building maintainable, scalable solutions.
 
-[Portfolio](https://alfredojones.dev) · [LinkedIn](https://www.linkedin.com/in/jorgeajones/) · [Email](mailto:hola@alfredojones.dev) · [Game Studio](https://github.com/Ni-Tan-Tan-Studios)
+**Hands-on technical leadership.** Combining team coordination with engineering execution.
+
+**Product mindset.** Creating software that solves real problems.
+
+**Continuous learning.** Exploring technologies and better ways to build products.
+
+---
+
+## 🎮 Personal Projects
+
+Outside of my professional work, I enjoy game development and exploring interactive experiences.
+
+I'm the founder of **[Ni Tan Tan Studios](https://github.com/Ni-Tan-Tan-Studios)**, an independent game development studio where I build personal projects.
+
+I'm currently developing with **Godot**, and I also have experience with **Unreal Engine 5 and Unity**.
+
+[**Explore Ni Tan Tan Studios →**](https://github.com/Ni-Tan-Tan-Studios)
+
+---
+
+## 🎓 Education
+
+- **Information and Communication Technologies Engineering**
+- Game development studies
+- Continuous learning in software architecture, infrastructure, and product development
+
+---
+
+## 📬 Let's Connect
+
+**[Portfolio](https://alfredojones.dev)** · **[LinkedIn](https://www.linkedin.com/in/jorgeajones/)** · **[Email](mailto:hola@alfredojones.dev)**
 
 ---
 

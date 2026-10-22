@@ -39,7 +39,7 @@ Diseño soluciones, coordino equipos de desarrollo y participo en la evolución 
 | **Stick** | Gestión de trabajo, tareas y procesos |
 | **COSMOS POS** | Punto de venta y operación comercial |
 | **Nimbus** | Herramientas para operaciones logísticas |
-| **Camariana** | Señalización digital |
+| **K´MARENA** | Señalización digital |
 
 <p align="center">
   <img src="assets/proyectos.jpg" alt="Proyectos y plataformas de software" width="850">
